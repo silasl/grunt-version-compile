@@ -76,4 +76,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 0.1.0 Initial release
-0.1.1 Initial release
+0.1.1 Added support for Grunt v1
+0.1.2 Updated repo location

@@ -4,7 +4,7 @@
     "name": "Silas Landricombe"
   },
   "bugs": {
-    "url": "https://github.com/amido/grunt-version-compile/issues"
+    "url": "https://github.com/silasl/grunt-version-compile/issues"
   },
   "dependencies": {},
   "description": "Browserify centric plugin that allows multiple builds, rename files with known extensions in order to provide alternative versions of apps",
@@ -19,7 +19,7 @@
   "engines": {
     "node": ">= 0.8.0"
   },
-  "homepage": "https://github.com/amido/grunt-version-compile",
+  "homepage": "https://github.com/silasl/grunt-version-compile",
   "keywords": [
     "browserify",
     "compile",
@@ -28,7 +28,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/amido/grunt-version-compile/blob/master/LICENSE-MIT"
+      "url": "https://github.com/silasl/grunt-version-compile/blob/master/LICENSE-MIT"
     }
   ],
   "maintainers": [
@@ -44,10 +44,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/amido/grunt-version-compile.git"
+    "url": "git://github.com/silasl/grunt-version-compile.git"
   },
   "scripts": {
     "test": "grunt test"
   },
-  "version": "0.1.1"
+  "version": "0.1.2"
 }
