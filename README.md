@@ -1,6 +1,6 @@
 # grunt-version-compile
 
-[![NPM](https://nodei.co/npm/grunt-version-compile.png?downloads=true&stars=true)](https://nodei.co/npm/grunt-version-compile/)
+[![NPM](https://nodei.co/npm/grunt-compile-version.png?downloads=true&stars=true)](https://nodei.co/npm/grunt-compile-version/)
 
 > Browserify centric plugin that allows multiple builds, rename files with known extensions in order to provide alternative versions of apps and components
 
